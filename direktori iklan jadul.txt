@@ -5,57 +5,49 @@ DIREKTORI IKLAN JADUL SC
 Complied by rioplworks
 https://github.com/riopl/iklanjadul
 
-Part	Ads	Mins	Upload Time	Viewers (5/11/2018)
-1	5	02:00	9/1/2016	27525
-2	36	16:01	7/2/2016	58756
-3	46	22:11	19/3/2016	87593
-4	40	20:29	13/4/2016	46401
-5	58	20:32	21/4/2016	138250
-6	54	24:18	5/11/2017*	121661
-7	26	15:06	25/6/2016	125974
-8	73	30:09	19/7/2016	152954
-9	38	19:24	29/8/2016	201284
-10	58	24:57	6/10/2016	115413
-11	77	25:11	16/11/2016	148115
-12	93	34:50	14/12/2016	91709
-13	46	17:37	3/2/2017	44075
-14	66	33:43	13/3/2017	56750
-15	53	32:13	17/4/2017	63461
-16	47	19:00	24/5/2017	136635
-17	43	16:42^	19/11/2017*	28784
-18	42	18:36	31/7/2017	45382
-19	56	17:14	2/9/2017	48808
-20	29	13:59	21/12/2017	24011
-HK78	40	16:47	27/1/2018	7566
-SN-1	11**	13:58	22/2/2018	166144
-SN-2	8**	10:50	5/4/2018	105156
-TPI-1	37	14:04	17/4/2018	61008
-SN-3	8**	09:56	10/6/2018	132565
-A91	19**	17:27	28/6/2018	75408
-SN-4	6***	11:34	4/8/2018	13508
-A95	24	15:14	23/8/2018	15598
-A92	38	15:49	29/10/2018	6039
+Part	Ads	Mins	Upload Time	Viewers (8/12/2018)
+1	5	02:00	9/1/2016	28128
+2	36	16:01	7/2/2016	60903
+3	46	22:11	19/3/2016	89202
+4	40	20:29	13/4/2016	47625
+5	58	20:32	21/4/2016	141563
+6	54	24:18	5/11/2017*	133850
+7	26	15:06	25/6/2016	127528
+8	73	30:09	19/7/2016	158238
+9	38	19:24	29/8/2016	205075
+10	58	24:57	6/10/2016	120343
+11	77	25:11	16/11/2016	152959
+12	93	34:50	14/12/2016	94234
+13	46	17:37	3/2/2017	45454
+14	66	33:43	13/3/2017	59118
+15	53	32:13	17/4/2017	66498
+16	47	19:00	24/5/2017	143002
+17	38	16:42^	19/11/2017*	30650
+18	42	18:36	31/7/2017	46814
+19	56	17:14	2/9/2017	51047
+20	29	13:59	21/12/2017	24707
+HK78	40	16:47	27/1/2018	7885
+SN-1	11**	13:58	22/2/2018	178571
+SN-2	8**	10:50	5/4/2018	111256
+TPI-1	37	14:04	17/4/2018	64845
+SN-3	8**	09:56	10/6/2018	160616
+A91	19**	17:27	28/6/2018	81241
+SN-4	6***	11:34	4/8/2018	17032
+A95	24	15:14	23/8/2018	18138
+A92	38	15:49	29/10/2018	25907
 ------------------------------------------------
-Total	1177	9:29:47			2346533
+Total	1172	9:29:47			2492429
 ------------------------------------------------
-BM95	-	25:34	20/1/2017	30173
-SI95	-	11:32	22/2/2017	30282
-SC93	-	16:46	29/3/2016	13812
-LO97	-	18:21	14/3/2018	48368
-------------------------------------------------
-Total	-	1:12:13			122635
-------------------------------------------------
-Subtotal	10:42:00		2469168
 
-^ = Versi aslinya berdurasi 19:56
+^ = Versi aslinya berdurasi 19:56 dan iklannya berjumlah 43
 * = Reupload
 ** = Diulang dua kali
 *** = Diulang tiga kali
 
-Penonton Terbanyak = 201284 (9)
-Penonton Tersedikit = 6039 (A92)
-Iklan Terbanyak = 93 (12)
-Iklan Tersedikit = 5 (1)
+Penonton Terbanyak = 205075 (Part 9)
+Penonton Tersedikit = 7885 (HK78)
+Iklan Terbanyak = 93 (Part 12)
+Iklan Tersedikit = 5 (Part 1)
 
 +-+-+-+-+-+
 LEGEND
@@ -1006,7 +998,8 @@ Part 16 (1991, 2001)
 Part 17 (1994, 1998) (Original)
 +-+-+-+-+-+
 
-43 ads - 19:56
+43 ads - 19:56 (Original)
+38 ads - 16:42 (Reupload)
 
 #1 Dimension Ultramild [00.00] = 14#6
 #2 Bimoli Spesial [00.13]
@@ -1017,16 +1010,16 @@ Part 17 (1994, 1998) (Original)
 #7 Pismatex [02.43]
 #8 Trailer film "Mrs. Doubtfire" [02.59]
 #9 Promo film SCTV "Seharum Nafasmu, Ya Ramadhan" [03.13]
-#10 Promo SCTV "The Cosby Show" [03.43]
+#10 Promo SCTV "The Cosby Show" [03.43] [dihapus di versi reupload]
 #11 Fuji MDL-5 [04.10] = 17#21
 #12 Ultra Milk [04.39]
-#13 Promo Program Baru SCTV [05.09]
+#13 Promo Program Baru SCTV [05.09] [dihapus di versi reupload]
 #14 SCFM [05.34] = Trijaya FM Version 3#5
 #15 Ucapan Selamat Idul Fitri (National Water Purifier) [06.04]
 #16 Promo Telenovela SCTV "Kassandra" dan "Kristal" [06.19] = 17#36
-#17 Promo film SCTV "Highlander" [06.49]
+#17 Promo film SCTV "Highlander" [06.49] [dihapus di versi reupload]
 #18 Promo film SCTV "Jodoh" [07.16] = A92#32
-#19 Promo film SCTV "Jake and the Fatman" [07.54]
+#19 Promo film SCTV "Jake and the Fatman" [07.54] [dihapus di versi reupload]
 #20 Viennetta [08.19]
 #21 Fuji MDL-5 [08.49] 17#11
 #22 Neril [09.19] = 2#24
@@ -1050,7 +1043,7 @@ Part 17 (1994, 1998) (Original)
 #40 Avian [17.20]
 #41 Fox's [17.50]
 #42 Promo Indosiar "Obladi Oblada" [18.05]
-#43 Promo Indosiar "Srimulat Spesial" [18.33]
+#43 Promo Indosiar "Srimulat Spesial" [18.33] [dihapus di versi reupload]
 
 +-+-+-+-+-+
 Part 18 (1995)
@@ -1461,6 +1454,14 @@ Iklan Jadul Tahun 1992 (A92)
 2. Seputar Indonesia With Commercial (50 thn Indonesia Merdeka) (SI95)
 3. Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
 4. Lensa Olahraga ANTV 1997 (LO97)
+
+	Mins	Upload Time	Viewers (8/12/2018)
+BM93	25:34	20/1/2017	30679
+SI95	11:32	22/2/2017	31384
+SC93	16:46	29/3/2016	14130
+LO97	18:21	14/3/2018	49159
+------------------------------------------------
+Total		
 
 +-+-+-+-+-+
 Buletin Malam Tahun 1993 (BM93)
