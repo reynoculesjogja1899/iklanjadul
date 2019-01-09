@@ -5,39 +5,39 @@ DIREKTORI IKLAN JADUL SC
 Complied by rioplworks
 https://github.com/riopl/iklanjadul
 
-Part	Ads	Mins	Upload Time	Viewers (19/12/2018)
-1	5	02:00	9/1/2016	28269
-2	36	16:01	7/2/2016	61363
-3	46	22:11	19/3/2016	89497
-4	40	20:29	13/4/2016	48080
-5	58	20:32	21/4/2016	142616
-6	54	24:18	5/11/2017*	138625
-7	26	15:06	25/6/2016	128029
-8	73	30:09	19/7/2016	160264
-9	38	19:24	29/8/2016	206213
-10	58	24:57	6/10/2016	121732
-11	77	25:11	16/11/2016	154740
-12	93	34:50	14/12/2016	95086
-13	46	17:37	3/2/2017	45937
-14	66	33:43	13/3/2017	59374
-15	53	32:13	17/4/2017	67635
-16	47	19:00	24/5/2017	144667
-17	38	16:42^	19/11/2017*	31599
-18	42	18:36	31/7/2017	47295
-19	56	17:14	2/9/2017	51678
-20	29	13:59	21/12/2017	25045
-HK78	40	16:47	27/1/2018	7942
-SN-1	11**	13:58	22/2/2018	180410
-SN-2	8**	10:50	5/4/2018	112058
-TPI-1	37	14:04	17/4/2018	65949
-SN-3	8**	09:56	10/6/2018	166103
-A91	19**	17:27	28/6/2018	83294
-SN-4	6***	11:34	4/8/2018	18608
-A95	24	15:14	23/8/2018	18943
-A92	38	15:49	29/10/2018	29871
-SN-5	7***	09:57	9/12/2018	3559
+Part	Ads	Mins	Upload Time	Viewers (9/1/2019)
+1	5	02:00	9/1/2016	28622
+2	36	16:01	7/2/2016	62618
+3	46	22:11	19/3/2016	90926
+4	40	20:29	13/4/2016	49026
+5	58	20:32	21/4/2016	145186
+6	54	24:18	5/11/2017*	146720
+7	26	15:06	25/6/2016	129072
+8	73	30:09	19/7/2016	164319
+9	38	19:24	29/8/2016	208445
+10	58	24:57	6/10/2016	125022
+11	77	25:11	16/11/2016	158365
+12	93	34:50	14/12/2016	96845
+13	46	17:37	3/2/2017	47260
+14	66	33:43	13/3/2017	61168
+15	53	32:13	17/4/2017	70065
+16	47	19:00	24/5/2017	147552
+17	38	16:42^	19/11/2017*	33090
+18	42	18:36	31/7/2017	48475
+19	56	17:14	2/9/2017	53219
+20	29	13:59	21/12/2017	25815
+HK78	40	16:47	27/1/2018	8236
+SN-1	11**	13:58	22/2/2018	183302
+SN-2	8**	10:50	5/4/2018	115271
+TPI-1	37	14:04	17/4/2018	68295
+SN-3	8**	09:56	10/6/2018	176628
+A91	19**	17:27	28/6/2018	87031
+SN-4	6***	11:34	4/8/2018	21517
+A95	24	15:14	23/8/2018	20815
+A92	38	15:49	29/10/2018	35374
+SN-5	7***	09:57	9/12/2018	5597
 ------------------------------------------------
-Total	1179	9:39:44			2534481
+Total	1179	9:39:44			2613876
 ------------------------------------------------
 
 ^ = Versi aslinya berdurasi 19:56 dan iklannya berjumlah 43
@@ -45,8 +45,8 @@ Total	1179	9:39:44			2534481
 ** = Diulang dua kali
 *** = Diulang tiga kali
 
-Penonton Terbanyak = 206213 (Part 9)
-Penonton Tersedikit = 3559 (SN-5)
+Penonton Terbanyak = 208445 (Part 9)
+Penonton Tersedikit = 5597 (SN-5)
 Iklan Terbanyak = 93 (Part 12)
 Iklan Tersedikit = 5 (Part 1)
 
@@ -73,7 +73,7 @@ Part 1 (1990's)
 
 #1 Bank Danamon [00.00]
 #2 Hemaviton [00.31] = 4#12
-#3 Polytron [01.01] = Long A92#20
+#3 Polytron [01.01] = Long A92#20, TPI Version TPI-2#10
 #4 Susu Bendera [01.16]
 #5 Crown [01.46]
 
@@ -503,7 +503,7 @@ Part 9 (1990)
 #34 Handyplast [18.34] = V2 TPI-1#3
 #35 Cadbury [18.45]
 #36 Info pemasangan iklan "Spot Melati" [18.58]
-#37 Vidoran [19.00]
+#37 Vidoran [19.00] = TPI-2#6
 #38 SUN [19.12]
 
 +-+-+-+-+-+
@@ -805,7 +805,7 @@ Part 13 (1992)
 #42 Lily Kasoem [16.07] = 13#3
 #43 Vetco [16.22] = 13#9
 #44 Wajan Maxim Teflon [16.37]
-#45 Ligna [17.07] V1 2#25
+#45 Ligna [17.07] = V1 2#25
 #46 Beng-Beng [17.22] = 7#25
 
 +-+-+-+-+-+
@@ -1429,7 +1429,7 @@ Iklan Jadul Tahun 1992 (A92)
 #17 Promo SCTV "Entertainment This Week" [05.52]
 #18 Promo SCTV "Highlander" [06.19]
 #19 Promo Sinetron SCTV "Anak Titipan" [06.43]
-#20 Polytron [07.09] = Short 1#3
+#20 Polytron [07.09] = Short 1#3, TPI Version TPI-2#10
 #21 Tropicana Slim [07.39]
 #22 WRP [07.54]
 #23 Promo Miniseri SCTV "Shogun" [08.08] = A92#34
@@ -1469,14 +1469,41 @@ Siaran Niaga Jadul 1978 (Tanty Yosepha Dantusil, Surya Group Kalpanax, Krisbiant
 2. Seputar Indonesia With Commercial (50 thn Indonesia Merdeka) (SI95)
 3. Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
 4. Lensa Olahraga ANTV 1997 (LO97)
+5. Iklan jadul tahun 1993 + Acara TPI Jadul (Original TPI) (TPI-2)
 
-	Mins	Upload Time	Viewers (19/12/2018)
-BM93	25:34	20/1/2017	30844
-SI95	11:32	22/2/2017	31666
-SC93	16:46	29/3/2016	14198
-LO97	18:21	14/3/2018	49446
+	Mins	Upload Time	Viewers (9/1/2019)
+SC93	16:46	29/3/2016	14404
+BM93	25:34	20/1/2017	31215
+SI95	11:32	22/2/2017	32398
+LO97	18:21	14/3/2018	50011
+TPI-2	15:54	24/12/2018	8695
 ------------------------------------------------
-Total	1:12:13			126154	
+Total	1:28:07			136723
+
++-+-+-+-+-+
+Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
++-+-+-+-+-+
+
+14 - 16:46
+
+#1 Slide RCTI "Saluran Hiburan dan Informasi" I [00.00]
+#2 Promo Film Tengah Malam RCTI "Key West" [00.02]
+#3 Taman Mini Indonesia Indah [00.32] = 17#32 SC
+#4 Promo RCTI "Blood Money" [01.32]
+#5 Pariwisata Indonesia [02.02] = 4#27
+#6 RCTI Bandung [03.02]
+#7 Slide RCTI "Saluran Hiburan dan Informasi" II [03.06]
+#8 Intro Salam Canda [03.11]
+   - Kuis Salam Canda "Siapakah penyunting gambar acara Salam Canda dan apa istilah Inggrisnya"
+   - Bintang tamu: PH Sugiri (Lembaga Pendidikan Ariyanti Bandung) & Puteri Indonesia 1993
+#9 ILM Procold [12.24] = 4#28
+#10 Promo RCTI "Intan Berduri" [12.44] = 4#29
+#11 Tonotan [13.14]
+#12 Chester [13.43] = 13#4
+#13 Promo New Delhi World Cup [13.58]
+#14 Lanjutan Salam Canda [14.13]
+    - Pembacaan naskah dan musik humor "Vaya con Dios" dan "Orang Sunda sama orang Spanyol itu sama, Adios Muchachos Permios Adios Kejeblos"
+    - Penutup
 
 +-+-+-+-+-+
 Buletin Malam Tahun 1993 (BM93)
@@ -1538,31 +1565,6 @@ Seputar Indonesia With Commercial (50 thn Indonesia Merdeka) (SI95)
    - Atletik PON
 
 +-+-+-+-+-+
-Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
-+-+-+-+-+-+
-
-14 - 16:46
-
-#1 Slide RCTI "Saluran Hiburan dan Informasi" I [00.00]
-#2 Promo Film Tengah Malam RCTI "Key West" [00.02]
-#3 Taman Mini Indonesia Indah [00.32] = 17#32
-#4 Promo RCTI "Blood Money" [01.32]
-#5 Pariwisata Indonesia [02.02] = 4#27
-#6 RCTI Bandung [03.02]
-#7 Slide RCTI "Saluran Hiburan dan Informasi" II [03.06]
-#8 Intro Salam Canda [03.11]
-   - Kuis Salam Canda "Siapakah penyunting gambar acara Salam Canda dan apa istilah Inggrisnya"
-   - Bintang tamu: PH Sugiri (Lembaga Pendidikan Ariyanti Bandung) & Puteri Indonesia 1993
-#9 ILM Procold [12.24] = 4#28
-#10 Promo RCTI "Intan Berduri" [12.44] = 4#29
-#11 Tonotan [13.14]
-#12 Chester [13.43] = 13#4
-#13 Promo New Delhi World Cup [13.58]
-#14 Lanjutan Salam Canda [14.13]
-    - Pembacaan naskah dan musik humor "Vaya con Dios" dan "Orang Sunda sama orang Spanyol itu sama, Adios Muchachos Permios Adios Kejeblos"
-    - Penutup
-
-+-+-+-+-+-+
 Lensa Olahraga ANTV 1997 (LO97)
 +-+-+-+-+-+
 
@@ -1588,3 +1590,19 @@ Lensa Olahraga ANTV 1997 (LO97)
     - Kejuaraan balap motor Gasoli RR di Surabaya
     - Formula 1 (Hasil GP Brasil, klasemen pembalap, klasemen konstruktor)
     - Kejurnas Sprint Rally (terpotong)
+
++-+-+-+-+-+
+Iklan jadul tahun 1993 + Acara TPI Jadul (Original TPI) (TPI-2)
++-+-+-+-+-+
+
+11 - 15:54
+
+#1 ILM Promag [00.00]
+#2 Tabloid Nova [00.09]
+#3 Promo Kuis Mahabarata [00.39]
+#4 Tinjauan Acara TPI (20 Maret 1993) [01.10]
+#5 Neosanmag [02.34]
+#6 Vidoran [03.03] = 9#37
+#9 Puyer Cap Singa Mas [03.15]
+#10 Polytron (TPI Version) [03.27] = Short 1#3, Long A92#20
+#11 Program Pendidikan Sekolah (Biologi SMP Kelas 3) [03.42]
