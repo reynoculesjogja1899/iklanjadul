@@ -5,39 +5,41 @@ DIREKTORI IKLAN JADUL SC
 Complied by rioplworks
 https://github.com/riopl/iklanjadul
 
-Part	Ads	Mins	Upload Time	Viewers (11/4/2019)
-1	5	02:00	9/1/2016	30525
-2	36	16:01	7/2/2016	68921
-3	46	22:11	19/3/2016	97036
-4	40	20:29	13/4/2016	51868
-5	58	20:32	21/4/2016	158983
-6	54	24:18	5/11/2017*	203643
-7	26	15:06	25/6/2016	135601
-8	73	30:09	19/7/2016	181899
-9	38	19:24	29/8/2016	230052
-10	58	24:57	6/10/2016	152391
-11	77	25:11	16/11/2016	187997
-12	93	34:50	14/12/2016	107501
-13	46	17:37	3/2/2017	55264
-14	66	33:43	13/3/2017	69720
-15	53	32:13	17/4/2017	82826
-16	47	19:00	24/5/2017	173397
-17	38	16:42^	19/11/2017*	40898
-18	42	18:36	31/7/2017	57589
-19	56	17:14	2/9/2017	67885
-20	29	13:59	21/12/2017	29510
-HK78	40	16:47	27/1/2018	9190
-SN-1	11**	13:58	22/2/2018	208839
-SN-2	8**	10:50	5/4/2018	139152
-TPI-1	37	14:04	17/4/2018	79899
-SN-3	8**	09:56	10/6/2018	301262
-A91	19**	17:27	28/6/2018	102735
-SN-4	6***	11:34	4/8/2018	52688
-A95	24	15:14	23/8/2018	32260
-A92	38	15:49	29/10/2018	48618
-SN-5	7***	09:57	9/12/2018	10382
+Part	Ads	Mins	Upload Time	Viewers (14/5/2019)
+1	5	02:00	9/1/2016	31065
+2	36	16:01	7/2/2016	70952
+3	46	22:11	19/3/2016	99591
+4	40	20:29	13/4/2016	52432
+5	58	20:32	21/4/2016	160731
+6	54	24:18	5/11/2017*	206920
+7	26	15:06	25/6/2016	137602
+8	73	30:09	19/7/2016	186536
+9	38	19:24	29/8/2016	236052
+10	58	24:57	6/10/2016	157746
+11	77	25:11	16/11/2016	194678
+12	93	34:50	14/12/2016	110681
+13	46	17:37	3/2/2017	57566
+14	66	33:43	13/3/2017	71668
+15	53	32:13	17/4/2017	87088
+16	47	19:00	24/5/2017	179032
+17	38	16:42^	19/11/2017*	42555
+18	42	18:36	31/7/2017	59488
+19	56	17:14	2/9/2017	71497
+20	29	13:59	21/12/2017	30539
+HK78	40	16:47	27/1/2018	9436
+SN-1	11**	13:58	22/2/2018	215336
+SN-2	8**	10:50	5/4/2018	146829
+TPI-1	37	14:04	17/4/2018	82681
+SN-3	8**	09:56	10/6/2018	351144
+A91	19**	17:27	28/6/2018	106639
+SN-4	6***	11:34	4/8/2018	62995
+A95	24	15:14	23/8/2018	35202
+A92	38	15:49	29/10/2018	50869
+SN-5	7***	09:57	9/12/2018	11299
+RCTI-1	56	22:38	4/5/2019	9036
+
 ------------------------------------------------
-Total	1179	9:39:44			3168531
+Total	1179	10:02:22		3325885‬
 ------------------------------------------------
 
 ^ = Versi aslinya berdurasi 19:56 dan iklannya berjumlah 43
@@ -45,8 +47,8 @@ Total	1179	9:39:44			3168531
 ** = Diulang dua kali
 *** = Diulang tiga kali
 
-Penonton Terbanyak = 301262 (SN-3)
-Penonton Tersedikit = 9190 (HK78)
+Penonton Terbanyak = 351144 (SN-3)
+Penonton Tersedikit = 9036 (RCTI-1)
 Iklan Terbanyak = 93 (Part 12)
 Iklan Tersedikit = 5 (Part 1)
 
@@ -93,7 +95,7 @@ Part 2 (1992-1993)
 #8 Syrup Special Grade ABC [02.42] = V2 13#16
 #9 Vicks VapoRub (bungkus baru) [03.12] = 9#13, 20#22
 #10 L'Oreal [03.26] = V2 7#7
-#11 Happy Salad Oil [03.55] = Short RCTI-1#61
+#11 Happy Salad Oil [03.55] = Short KS-1#61
 #12 Hong Kong [04.25] = 3#3
 #13 SOS [04.55] = 10#18
 #14 Insto [05.25]
@@ -131,7 +133,7 @@ Part 3 (1992, 1990)
 #2 Rejoice 2 in 1 [00.29] = 13#5
 #3 Hong Kong [00.59] = 2#11
 #4 Nescafe [01.30] SC
-#5 Trijaya FM [02.02] = KS-1#3, SCFM version 17#14 
+#5 Trijaya FM [02.02] = KS-2#3, SCFM version 17#14 
 #6 RCTI Ident [02.31]
 #7 ILM RCTI (rokok) [02.43] = 10#43
 #8 Agenda Nasional September 1992 [02.58]
@@ -230,7 +232,7 @@ Part 5 (1997)
 
 #1 RCTI Ident [00.00] **
 #2 Sensodyne [00.09]
-#3 Brisk Hair Cream [00.23] = Long RCTI-2#41
+#3 Brisk Hair Cream [00.23] = Long Akm-1#41, V2 RCTI-1#3
 #4 Attack [00.39]
 #5 Permen Boom [01.09]
 #6 Sari Ayu "Tren Warna Dayak" [01.24]
@@ -253,16 +255,16 @@ Part 5 (1997)
 #23 Wafer Tango (panjang) [07.04] = 5#18
 #24 Clairol [07.19]
 #25 Setrika Philips [07.49]
-#26 Dimension Anti Dandruff [08.04]
+#26 Dimension Anti Dandruff [08.04] = Long RCTI-1#38
 #27 Teh Kotak [08.19]
 #28 Pasta gigi Formula [08.49]
 #29 Kiranti [09.03]
 #30 Koko Krunch [09.19]
 #31 Wafer Milkcow [09.49]
 #32 Rindi [10.19]
-#33 ILM Sampoerna [10.34]
+#33 ILM Sampoerna [10.34] = V2 RCTI-1#49
 #34 Durodont [11.18]
-#35 TV Sharp Q Vision [11.32] = 17#38
+#35 TV Sharp Q Vision [11.32] = 17#38, RCTI-1#45
 #36 MasterCard [11.47]
 #37 Matahari [12.18]
 #38 Nivea Visage [12.33]
@@ -276,7 +278,7 @@ Part 5 (1997)
 #46 Minyak Goreng 999 [15.33]
 #47 Larutan Penyejuk Orang Tua [15.47]
 #48 Toshiba [16.04]
-#49 Anlene [16.33] = Short 11#32, RCTI-2#18
+#49 Anlene [16.33] = Short 11#32, Akm-1#18
 #50 Tahapan BCA [17.03]
 #51 Juice Plus [17.33]
 #52 Balsem Cap Lang [17.47] = 5#13
@@ -515,7 +517,7 @@ Part 10 (1994)
 #1 RCTI Ident [00.00]
 #2 Catylac [00.14]
 #3 Susu cap Enaaak [00.48]
-#4 Oil of Ulan [01.03] = RCTI-1#6
+#4 Oil of Ulan [01.03] = KS-1#6
 #5 SeaWorld Indonesia [01.31]
 #6 Teh Botol Sosro [01.46]
 #7 Biore Body Foam [02.16]
@@ -528,7 +530,7 @@ Part 10 (1994)
 #14 Cornello [05.17]
 #15 Toyota Kijang [05.32]
 #16 Betadine Obat Kumur [05.46]
-#17 Digitec Sumo [06.01] = 15#28, 15#38, A92#6, A92#13, RCTI-1#42
+#17 Digitec Sumo [06.01] = 15#28, 15#38, A92#6, A92#13, KS-1#42
 #18 SOS [06.20] = 2#13
 #19 Indomilk [06.44]
 #20 Layanan VIP [07.14]
@@ -567,7 +569,7 @@ Part 10 (1994)
 #53 Dunhill [22.25]
 #54 Promina [22.55]
 #55 A Mild [23.28]
-#56 Isuzu Panther [23.58] = RCTI-1#35
+#56 Isuzu Panther [23.58] = KS-1#35
 #57 Shampoo Brisk [24.12]
 #58 Permen Vicks Aksi Ganda [24.27]
 
@@ -608,14 +610,14 @@ Part 11 (2002, 2000)
 #29 Prolipid [07.53]
 #30 Coca-Cola [08.09]
 #31 So Klin Higinis [08.38] = 11#23, 11#40
-#32 Anlene [09.08] = RCTI-2#18, Long 5#49
+#32 Anlene [09.08] = Akm-1#18, Long 5#49
 #33 Sanaflu [09.24] = 11#44
 #34 Pepsodent [09.39]
 #35 Indovision [10.09]
 #36 Sari Puspa [10.39]
 #37 So Klin Higinis (pendek) [10.55] = 11#27
 #38 Visine [11.01] = 11#49
-#39 Sarden ABC [11.05] = RCTI-1#60
+#39 Sarden ABC [11.05] = KS-1#60
 #40 So Klin Higinis [11.21] = 11#23, 11#31
 #41 Susu Bendera [11.51]
 #42 Nivea Soft [12.06]
@@ -674,7 +676,7 @@ Part 12 (1995)
 #11 Mazda 323 Lantis [03.19] = 12#71
 #12 Biore Body Cool [03.49]
 #13 Marlboro [04.19]
-#14 Braito [04.34]
+#14 Braito [04.34] = RCTI-1#6
 #15 Royal [04.49]
 #16 AC Toshiba [05.19]
 #17 Bisolvon [05.49] = 18#9
@@ -870,7 +872,7 @@ Part 14 (1995-1996)
 #54 Promo Indosiar "Stick With Me, Kid" [24.58]
 #55 Promo Indosiar "Heart Break High" [25.28]
 #56 Slide Indosiar "Yogyakarta 28 UHF" [25.58] = 14#51, 14#61
-#57 Clear "Ah, Teori!" [26.05]
+#57 Shampoo Clear "Ah, Teori!" [26.05] = RCTI-1#35
 #58 Promo Indosiar "Kembalinya Sang Pendekar" [26.34]
 #59 Promo Sinema Pilihan Indosiar "Terjebak Dalam Dosa" [27.04]
 #60 Kuis KONI-Indosiar [27.34]
@@ -914,7 +916,7 @@ Part 15 (1995)
 #25 Matahari [13.57]
 #26 Trailer film "Congo" [14.27] = 15#12
 #27 Suzuki Tornado GS 110 [14.42] = 15#6
-#28 Digitec Sumo [15.11] = 10#17, 15#38, A92#6, A92#13, RCTI-1#42
+#28 Digitec Sumo [15.11] = 10#17, 15#38, A92#6, A92#13, KS-1#42
 #29 Carvil [15.27] 
 #30 Kaset "Alternative Rock" [15.57]
 #31 Bimoli Spesial [16.27] = 15#7
@@ -924,9 +926,9 @@ Part 15 (1995)
 #35 Promo 50 Tahun RI Oskadon [18.48]
 #36 Radio Suzana [19.03]
 #37 Promo Parade Film SCTV [19.33]
-#38 Digitec Sumo [20.16] = 10#17, 15#28, A92#6, A92#13, RCTI-1#42
+#38 Digitec Sumo [20.16] = 10#17, 15#28, A92#6, A92#13, KS-1#42
 #39 Bank BCA [20.30]
-#40 Executive 99 [20.46] = KS-1#24
+#40 Executive 99 [20.46] = KS-2#24
 #41 Redoxon [21.01] = A95#9
 #42 Goodyear [21.16]
 #43 Indomie Spesial Keriting [21.46]
@@ -1015,7 +1017,7 @@ Part 17 (1994, 1998) (Original)
 #11 Fuji MDL-5 [04.10] = 17#21
 #12 Ultra Milk [04.39]
 #13 Promo Program Baru SCTV [05.09] [dihapus di versi reupload]
-#14 SCFM [05.34] = Trijaya FM Version 3#5, KS-1#3
+#14 SCFM [05.34] = Trijaya FM Version 3#5, KS-2#3
 #15 Ucapan Selamat Idul Fitri (National Water Purifier) [06.04]
 #16 Promo Telenovela SCTV "Kassandra" dan "Kristal" [06.19] = 17#36
 #17 Promo film SCTV "Highlander" [06.49] [dihapus di versi reupload]
@@ -1039,7 +1041,7 @@ Part 17 (1994, 1998) (Original)
 #35 Procold [15.08]
 #36 Promo Telenovela SCTV "Kassandra" dan "Kristal" [15.38] 17#16
 #37 ILM Imunisasi [16.08]
-#38 TV Sharp Q Vision [16.35] = 5#35
+#38 TV Sharp Q Vision [16.35] = 5#35, RCTI-1#45
 #39 Salonpas [16.50]
 #40 Avian [17.20]
 #41 Fox's [17.50]
@@ -1082,7 +1084,7 @@ Part 18 (1995)
 #28 Belia [12.38]
 #29 Album Seleksi Ole Ole Disco [13.08]
 #30 ABC Special Grade [13.22]
-#31 Vicks Action [13.36] = RCTI-1#1 **
+#31 Vicks Action [13.36] = KS-1#1 **
 #32 Energo [14.07]
 #33 Clear [14.36]
 #34 TV Sharp Fine Crystal [14.51]
@@ -1107,7 +1109,7 @@ Part 19 (1997)
 #4 Pipa Langgeng [00.50] = 19#25
 #5 Ardiles [01.19] = 19#44
 #6 Hansaplast Koyo Cabe [01.35]
-#7 Bank Papan (kartu kredit) [02.05] = RCTI-2#21 **
+#7 Bank Papan (kartu kredit) [02.05] = Akm-1#21 **
 #8 Marimas [02.20] = 19#15
 #9 Sariwangi [02.50] 
 #10 Hemorid [03.20]
@@ -1130,7 +1132,7 @@ Part 19 (1997)
 #27 Obat Nyamuk Tiga Roda [08.43] **
 #28 Yamaha Crypton [08.58]
 #29 Viliron [09.13] = 19#41
-#30 Kansas [09.28] = 19#42, RCTI-2#2
+#30 Kansas [09.28] = 19#42, Akm-1#2
 #31 Surya Mie [09.43]
 #32 Promo Indosiar "Ketoprak Siswo Budoyo lakon Angling Darmo" [09.58]
 #33 Djarum Super (pendek) [10.13] = 19#1, 19#11, 19#13, 19#21, 19#23
@@ -1138,11 +1140,11 @@ Part 19 (1997)
 #35 AC Sharp [10.22]
 #36 Loggo [10.37]
 #37 Promo Indosiar "Jelita" [10.52] = 1#33, 19#14
-#38 Yamaha Sigma [11.22] = RCTI-2#9 SBC
+#38 Yamaha Sigma [11.22] = Akm-1#9 SBC
 #39 Djarum Super (panjang) [11.52]
 #40 Isuzu Elf [12.07]
 #41 Viliron [12.22] = 19#29
-#42 Kansas [12.37] = 19#30, RCTI-2#2
+#42 Kansas [12.37] = 19#30, Akm-1#2
 #43 Poldan (pendek) [12.52] = 19#54
 #44 Ardiles [13.07] = 19#5
 #45 Promo Indosiar "Wayang Kulit Sesaji Rojo Suyo" [13.22]
@@ -1294,7 +1296,7 @@ Iklan Jadul Tahun 1992-1994 (Contrex Benyamin) + TPI Ident First (TPI-1)
 #12 Nyam Nyam [03.36] = TPI-1#5
 #13 SUN [03.41]
 #14 Contrex [03.54]
-#15 Toyota Great Corolla [04.23] {RCTI-1#39}
+#15 Toyota Great Corolla [04.23] {KS-1#39}
 #16 Brisk Cream Styling Gel [04.37] = TPI-1#23
 #17 Crystal [04.52] = TPI-1#21, TPI-1#28
 #18 Softly 3 in 1 [05.39] = TPI-1#27, TPI-1#35, Short 10#31
@@ -1415,16 +1417,16 @@ Iklan Jadul Tahun 1992 (A92)
 #3 Sisir Widex [00.43]
 #4 Lowongan Kerja Pembawa Acara SCTV [00.58]
 #5 Kokita [01.23]
-#6 Digitec Sumo [01.53] = 10#17, 15#28, 15#38, A92#13, RCTI-1#42
+#6 Digitec Sumo [01.53] = 10#17, 15#28, 15#38, A92#13, KS-1#42
 #7 Promo kuis serial "Gadis Pemimpi" [02.07]
 #8 Biore Body Foam [02.38] = Short BM93#7
 #9 Daihatsu Taft [03.10]
 #10 Nutrisari [03.25]
 #11 Nutrisari Florida Orange [03.39]
 #12 California Fried Chicken [03.54]
-#13 Digitec Sumo [04.25] = 10#17, 15#28, 15#38, A92#6, RCTI-1#42
+#13 Digitec Sumo [04.25] = 10#17, 15#28, 15#38, A92#6, KS-1#42
 #14 Citra Face Care [04.41]
-#15 Printer HP Deskjet [04.56] = V2 KS-1#5
+#15 Printer HP Deskjet [04.56] = V2 KS-2#5
 #16 Promo SCTV "Silk Stalking" [05.26]
 #17 Promo SCTV "Entertainment This Week" [05.52]
 #18 Promo SCTV "Highlander" [06.19]
@@ -1437,7 +1439,7 @@ Iklan Jadul Tahun 1992 (A92)
 #25 Dunia Dalam Berita di SCTV [09.40]
 #26 Promo SCTV "Sekilas Close-Up" [09.57]
 #27 Swatch [10.27]
-#28 Essenza [10.42] **
+#28 Essenza [10.42] = RCTI-1#53 **
 #29 Sarung Atlas [11.11] = A92#38
 #30 Obat Nyamuk Jumbo cap Kingkong [11.27]
 #31 Promo SCTV "Fifteen" [11.42]
@@ -1463,6 +1465,69 @@ Siaran Niaga Jadul 1978 (Tanty Yosepha Dantusil, Surya Group Kalpanax, Krisbiant
 #6 Kalpanax [02.17] [05.39] [08.53]
 #7 Slide "Terima Kasih Atas Perhatian Anda" [03.16] [09.52]
 
++-+-+-+-+-+
+iklan jadul lagi RCTI 1997 (RCTI-1)
++-+-+-+-+-+
+
+56 ads - 22:37
+
+#1 Lux [00.00]
+#2 SLI 001 [00.59]
+#3 Brisk Hair Cream [01.14] = V1 5#3, Long Akm-1#41
+#4 Matahari [01.29]
+#5 Yamaha F1ZR [01.59]
+#6 Braito [02.29] = 12#14
+#7 Organics Anti Ketombe [02.44]
+#8 Ginsana [02.59]
+#9 Citibank [03.29]
+#10 Slide RCTI Kijang Ekspo 97 [04.01]
+#11 Kopi Surya Top [04.05]
+#12 Decolgen [04.21]
+#13 Perubahan Jam Tayang RCTI [04.37]
+#14 Promo RCTI "JAG" [05.06] = RCTI-1#30
+#15 Slide RCTI Kijang Ekspo 97 [05.37]
+#16 Opel Blazer [05.40]
+#17 Keran Toto [06.10]
+#18 TV Phillips Matchline [06.40] = RCTI-1#32
+#19 Semir Kiwi [07.10] = RCTI-1#33
+#20 Calpico [07.25]
+#21 GSM XL [07.40]
+#22 Levi's [08.10]
+#23 Pond's Fair and Lovely [08.40] = KS-1#52
+#24 Honda Black Astrea Impressa [09.10]
+#25 Tango Wafer [09.40]
+#26 Mc Donald's [10.10]
+#27 Slide Buavita [10.26] = RCTI-1#31
+#28 Hong Kong [10.31]
+#29 Promo Serial Drama RCTI "Bella Vista III" [11.01]
+#30 Promo RCTI "JAG" [11.31] = RCTI-1#14
+#31 Slide Buavita [12.01] = RCTI-1#27
+#32 TV Phillips Matchline [12.06] = RCTI-1#18
+#33 Semir Kiwi [12.35] = RCTI-1#19
+#34 Danisa [12.50]
+#35 Shampoo Clear "Ah, Teori!" [13.05] = 14#57
+#36 Executive 99 [13.35]
+#37 Indocafe Coffeemix [14.06]
+#38 Dimension Anti Dandruff [14.36] = Short 5#26
+#39 Wrangler [15.05]
+#40 L'Oreal Plenitude Excell-A3 [15.37]
+#41 ILM RCTI "Selamat Menunaikan Ibadah Puasa" [16.07]
+#42 Visine [16.22]
+#43 Bank PSP [16.37]
+#44 Attack kemasan botol [17.07]
+#45 TV Sharp Q-Vision [17.22] = 5#35, 17#38
+#46 Brand's Sari Pati Ayam [17.37]
+#47 Baygon Bakar [18.07]
+#48 Vetco Mas [18.37]
+#49 ILM Sampoerna [19.09] = V1 5#33
+#50 Fungiderm [19.52]
+#51 UPS [20.08]
+#52 Bank Umum Servitia [20.38]
+#53 Essenza [20.53] = A92#28 **
+#54 Toyota Kijang [21.23]
+#55 Kijang Expo 97 [21.53]
+#56 TV RCA [22.08]
+
 ==MISC==
 
 1. Buletin Malam Tahun 1993 (BM93)
@@ -1471,14 +1536,14 @@ Siaran Niaga Jadul 1978 (Tanty Yosepha Dantusil, Surya Group Kalpanax, Krisbiant
 4. Lensa Olahraga ANTV 1997 (LO97)
 5. Iklan jadul tahun 1993 + Acara TPI Jadul (Original TPI) (TPI-2)
 
-	Mins	Upload Time	Viewers (11/4/2019)
-SC93	16:46	29/3/2016	15599
-BM93	25:34	20/1/2017	32877
-SI95	11:32	22/2/2017	36847
-LO97	18:21	14/3/2018	53529
-TPI-2	15:54	24/12/2018	61394
+	Mins	Upload Time	Viewers (14/5/2019)
+SC93	16:46	29/3/2016	16033
+BM93	25:34	20/1/2017	33334
+SI95	11:32	22/2/2017	38027
+LO97	18:21	14/3/2018	54472
+TPI-2	15:54	24/12/2018	66974
 ------------------------------------------------
-Total	1:28:07			200246
+Total	1:28:07			208840
 
 +-+-+-+-+-+
 Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
@@ -1609,19 +1674,19 @@ Iklan jadul tahun 1993 + Acara TPI Jadul (Original TPI) (TPI-2)
 
 ==EXTRAS==
 
-Name	Ads	Mins	Upload Time	Viewers (13/4/2019)
-RCTI-1	65	24:15	28/3/2019	9068
-RCTI-2	47	14:56	28/3/2019	4004
-KS-1	29	12:16	8/4/2019	1896
+Name	Ads	Mins	Upload Time	Viewers (14/5/2019)
+KS-1	65	24:15	28/3/2019	67922
+Akm-1	47	14:56	28/3/2019	8913
+KS-2	29	12:16	8/4/2019	8159
 ------------------------------------------------
-Total	141	51:27			14968
+Total	141	51:27			84994
 ------------------------------------------------
 
-Iklan Terbanyak = 65 (RCTI-1)
-Iklan Tersedikit = 29 (KS-1)
+Iklan Terbanyak = 65 (KS-1)
+Iklan Tersedikit = 29 (KS-2)
 
 +-+-+-+-+-+
-RCTI-1 (Des 1994)
+KS-1 (Des 1994)
 +-+-+-+-+-+
 
 Uploader: Keanu Soemali
@@ -1644,7 +1709,7 @@ Uploader: Keanu Soemali
 #15 Slide Teletext RCTI [05.22]
 #16 Cuddle [05.27]
 #17 Densol [05.42]
-#18 Bank Artha Graha "Deposito Graha 2000" [06.12] = Long RCTI-1#56, KS-1#20
+#18 Bank Artha Graha "Deposito Graha 2000" [06.12] = Long KS-1#56, KS-2#20
 #19 Brylcreem [06.27]
 #20 Slide RCTI Stasiun Transmisi Pontianak [06.48]
 #21 Promo Film Dini Hari "The Desert Hawk" [06.54]
@@ -1670,7 +1735,7 @@ Uploader: Keanu Soemali
 #41 Levi's [15.44]
 #42 Digitec Sumo [16.14] = 10#17, 15#28, 15#38, A92#6, A92#13
 #43 Axe Alaska [16.29]
-#44 Dunkin' Donuts (clipped) [16.44] = KS-1#21
+#44 Dunkin' Donuts (clipped) [16.44] = KS-2#21
 #45 Sunsilk Intensive Conditioner [16.51]
 #46 Kodak [17.20]
 #47 Kopiko Coffee Shop [17.36]
@@ -1678,11 +1743,11 @@ Uploader: Keanu Soemali
 #49 Lifebuoy Handwash Liquid [18.20]
 #50 Slide RCTI Stasiun Transmisi Balikpapan [18.50]
 #51 Galleria [18.55]
-#52 Pond's Fair and Lovely [19.10]
+#52 Pond's Fair and Lovely [19.10] = RCTI-1#23
 #53 Bir Bintang [19.40]
 #54 Bank Universal [20.09]
 #55 Metro [20.24]
-#56 Bank Artha Graha "Deposito Graha 2000" [20.39] = KS-1#20, Short RCTI-1#18
+#56 Bank Artha Graha "Deposito Graha 2000" [20.39] = KS-2#20, Short KS-1#18
 #57 Slide RCTI Stasiun Transmisi Surakarta [21.09]
 #58 Dimension 3 in 1 [21.15]
 #59 Toyota Kijang [21.30]
@@ -1694,7 +1759,7 @@ Uploader: Keanu Soemali
 #65 Pengumuman RCTI 3 [23.45]
 
 +-+-+-+-+-+
-RCTI-2 (Jun 1997)
+Akm-1 (Jun 1997)
 +-+-+-+-+-+
 
 Uploader: Akame Hiragi
@@ -1715,7 +1780,7 @@ Uploader: Akame Hiragi
 #12 Betadine [03.44]
 #13 Promo Seputar Indonesia [04.00]
 #14 Permen KIS [04.15]
-#15 Slide Layar Emas RCTI "King of Adventure" [04.20] = RCTI-2#35
+#15 Slide Layar Emas RCTI "King of Adventure" [04.20] = Akm-1#35
 #16 Kratingdaeng [04.24]
 #17 Panadol [04.48]
 #18 Anlene [05.04] = 11#32, Long 5#49
@@ -1735,13 +1800,13 @@ Uploader: Akame Hiragi
 #32 Semarak Primadana Bank Danamon [09.28]
 #33 Universitas Bina Nusantara [09.43]
 #34 Slide RCTI Stasiun Transmisi Garut [10.08]
-#35 Slide Layar Emas RCTI "King of Adventure" [10.12] = RCTI-2#15
+#35 Slide Layar Emas RCTI "King of Adventure" [10.12] = Akm-1#15
 #36 Alkaline [10.16]
 #37 Sandal ATT [10.31]
 #38 Satelindo GSM [10.47]
 #39 Promag [11.17]
 #40 Pepsodent Baking Soda [11.32]
-#41 Brisk Hair Cream [11.47] = Short 5#3
+#41 Brisk Hair Cream [11.47] = Short V1 5#3, V2 RCTI-1#3
 #42 Australia [12.17]
 #43 Bank Tamara [12.47]
 #44 Rokok Kennedy [13.17]
@@ -1750,7 +1815,7 @@ Uploader: Akame Hiragi
 #47 Pond's Shine Control Moisturizer [14.26]
 
 +-+-+-+-+-+
-KS-1 (1993-94)
+KS-2 (1993-94)
 +-+-+-+-+-+
 
 Uploader: Keanu Soemali
@@ -1775,8 +1840,8 @@ Uploader: Keanu Soemali
 #17 Indovision [07.03]
 #18 Trijaya FM "Programs" [07.08]
 #19 Lomba Cipta Resep Selera Sasa [08.08]
-#20 Bank Artha Graha "Deposito Graha 2000" [08.38] = RCTI-1#56, Short RCTI-1#18
-#21 Dunkin' Donuts [09.08] = RCTI-1#44
+#20 Bank Artha Graha "Deposito Graha 2000" [08.38] = KS-1#56, Short KS-1#18
+#21 Dunkin' Donuts [09.08] = KS-1#44
 #22 Rudy Hadisuwarno [09.23]
 #23 Fisherman's Friend [09.38] 
 #24 Executive 99 [09.53] = 15#40
