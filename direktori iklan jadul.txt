@@ -5,49 +5,48 @@ DIREKTORI IKLAN JADUL SC
 Complied by rioplworks
 https://github.com/riopl/iklanjadul
 
-Part	Ads	Mins	Upload Time	Viewers (14/7/2019)
-1	5	02:00	9/1/2016	32488
-2	36	16:01	7/2/2016	74267
-3	46	22:11	19/3/2016	103032
-4	40	20:29	13/4/2016	53914
-5	58	20:32	21/4/2016	164221
-6	54	24:18	5/11/2017*	212619
-7	26	15:06	25/6/2016	141394
-8	73	30:09	19/7/2016	196968
-9	38	19:24	29/8/2016	246510
-10	58	24:57	6/10/2016	169213
-11	77	25:11	16/11/2016	207647
-12	93	34:50	14/12/2016	118891
-13	46	17:37	3/2/2017	63682
-14	66	33:43	13/3/2017	76023
-15	53	32:13	17/4/2017	95504
-16	47	19:00	24/5/2017	191158
-17	38	16:42^	19/11/2017*	47067
-18	42	18:36	31/7/2017	63465
-19	56	17:14	2/9/2017	78599
-20	29	13:59	21/12/2017	33194
-HK78	40	16:47	27/1/2018	9926
-SN-1	11**	13:58	22/2/2018	226197
-SN-2	8**	10:50	5/4/2018	157047
-TPI-1	37	14:04	17/4/2018	88022
-SN-3	8**	09:56	10/6/2018	395651
-A91	19**	17:27	28/6/2018	114256
-SN-4	6***	11:34	4/8/2018	80107
-A95	24	15:14	23/8/2018	44853
-A92	38	15:49	29/10/2018	54992
-SN-5	7***	09:57	9/12/2018	13280
-RCTI-1	56	22:38	4/5/2019	33847
-------------------------------------------------
-Total	1179	10:02:22		3588034
-------------------------------------------------
+Part	Ads	Mins	Upload Time
+1	5	02:00	9/1/2016
+2	36	16:01	7/2/2016
+3	46	22:11	19/3/2016
+4	40	20:29	13/4/2016
+5	58	20:32	21/4/2016
+6	54	24:18	5/11/2017*
+7	26	15:06	25/6/2016
+8	73	30:09	19/7/2016
+9	38	19:24	29/8/2016
+10	58	24:57	6/10/2016
+11	77	25:11	16/11/2016
+12	93	34:50	14/12/2016
+13	46	17:37	3/2/2017
+14	66	33:43	13/3/2017
+15	53	32:13	17/4/2017
+16	47	19:00	24/5/2017
+17	38	16:42^	19/11/2017*
+18	42	18:36	31/7/2017
+19	56	17:14	2/9/2017
+20	29	13:59	21/12/2017
+HK78	40	16:47	27/1/2018
+SN-1	11**	13:58	22/2/2018
+SN-2	8**	10:50	5/4/2018
+TPI-1	37	14:04	17/4/2018
+SN-3	8**	09:56	10/6/2018
+A91	19**	17:27	28/6/2018
+SN-4	6***	11:34	4/8/2018
+A95	24	15:14	23/8/2018
+A92	38	15:49	29/10/2018
+SN-5	7***	09:57	9/12/2018
+RCTI-1	56	22:38	4/5/2019
+----------------------------------------
+Total	1179	10:02:22
+----------------------------------------
 
-^ = Versi aslinya berdurasi 19:56 dan iklannya berjumlah 43
 * = Reupload
 ** = Diulang dua kali
 *** = Diulang tiga kali
 
-Penonton Terbanyak = 395651 9SN-3)
-Penonton Tersedikit = 9926 (HK78)
+^ = Versi aslinya berdurasi 19:56 dan iklannya berjumlah 43
+
 Iklan Terbanyak = 93 (Part 12)
 Iklan Tersedikit = 5 (Part 1)
 
@@ -55,10 +54,10 @@ Iklan Tersedikit = 5 (Part 1)
 LEGEND
 +-+-+-+-+-+
 
-* = Ada di kanal "insightgav"
-** = Ada di akun lain
+* = Ada di akun lain
+ISG = Ada di kanal "insightgav"
 SBC = Ada di kanal "Square Box Cinetech"
-Partial = Iklan terpotong/tidak sempurna
+Partial = Iklan terpotong/tidak sempurna/patah-patah
 Short = Versi pendek (5-20 detik)
 Medium = Versi sedang (30 detik)
 Long = Versi panjang (45 detik-1 menit)
@@ -114,12 +113,12 @@ Part 2 (1992-1993)
 #27 Softly [10.52]
 #28 Toyota Kijang [11.21]
 #29 Sony [11.36]
-#30 Cosmos [12.06] **
+#30 Cosmos [12.06] *
 #31 Teh Botol Sosro [12.21, 12.48] SC
 #32 Silver Queen [12.34]
 #33 Andromeda Bank [13.05]
 #34 Indomie [13.31]
-#35 Marlboro Country [14.30] **
+#35 Marlboro Country [14.30] *
 #36 Promo SCTV "Hotel" [15.31]
 
 +-+-+-+-+-+
@@ -160,16 +159,16 @@ Part 3 (1992, 1990)
 #30 Clearasil [13.38]
 #31 Polo [14.08]
 #32 Rinso Ultra (Partial) [14.38] = 3#40
-#33 Johnson & Johnson [14.51] = Medium 9#31, Long A91#18
+#33 Johnson & Johnson (Partial) [14.51] = Medium 9#31, Long A91#18
 #34 CDR [15.52]
 #35 Exquisit [16.21] 
 #36 California Fried Chicken [16.36]
-#37 Citra Beauty Soap [17.03] **
+#37 Citra Beauty Soap [17.03] *
 #37 Fujifilm (1) [17.33]
 #38 Fujifilm (2) [18.01]
-#39 Baygon [18.16] *
+#39 Baygon (Partial) [18.16] ISG
 #40 Rinso Ultra [18.46] = Partial 3#32
-#41 Shower to Shower [18.58] = Full 9#6
+#41 Shower to Shower (Partial) [18.58] = Full 9#6
 #42 Hazeline [19.09]
 #43 Aqua [19.39]
 #44 Dimension [20.12] = 6#5
@@ -195,7 +194,7 @@ Part 4 (1995, 1993, 1996, 1992)
 #11 Vidoran [04.57]
 #12 Hemaviton [05.12] = 1#2
 #13 Promo serial Indosiar "Kinanti" [05.26]
-#14 Inza [06.00] = TPI-1#36 *
+#14 Inza [06.00] = TPI-1#36 ISG
 #15 Mustika Ratu [06.29]
 #16 Sunsilk [06.45]
 #17 Supradyn [07.14]
@@ -213,9 +212,9 @@ Part 4 (1995, 1993, 1996, 1992)
 #29 Promo RCTI "Intan Berduri" [14.42] = SC93#10
 #30 Romance Spring Bed [15.08]
 #31 Silver Queen [15.29] = Full 14#13
-#32 Garuda Indonesia [15.44] **
+#32 Garuda Indonesia [15.44] *
 #33 Relaxa [16.43]
-#34 Indomie (spesial 50 tahun HUT RI) [16.58] **
+#34 Indomie (spesial 50 tahun HUT RI) [16.58] *
 #35 Promo SCTV "Sekilas Close-Up" [17.58]
 #36 Promo SCTV "Dunia Bintang" [18.25]
 #37 Konidin [18.52] = V2 A91#5, A91#13
@@ -229,7 +228,7 @@ Part 5 (1997)
 
 58 ads - 20:32
 
-#1 RCTI Ident [00.00] **
+#1 RCTI Ident [00.00] *
 #2 Sensodyne [00.09]
 #3 Brisk Hair Cream [00.23] = Long Akm-1#41, V2 RCTI-1#3
 #4 Attack [00.39]
@@ -284,9 +283,9 @@ Part 5 (1997)
 #53 Nivea Baby [18.02] = 5#45
 #54 Wendy's [18.32]
 #55 SGM 2 [18.47]
-#56 Nike "Frozen Moment" [19.01] **
+#56 Nike "Frozen Moment" [19.01] *
 #57 Mesran [19.32]
-#58 Coca-Cola "Rune Goldberg Machine" [20.02] **
+#58 Coca-Cola "Rune Goldberg Machine" [20.02] *
 
 +-+-+-+-+-+
 Part 6 (1989, 1996, 1992)
@@ -296,7 +295,7 @@ Part 6 (1989, 1996, 1992)
 
 #1 Chiki [00.00]
 #2 RCTI Ident [01.00] V2 6#7
-#3 Citra Beauty Lotion [01.03] V2 9#18 **
+#3 Citra Beauty Lotion [01.03] V2 9#18 *
 #4 ILM Sabuk Pengaman [01.48] = 6#16, 17#28, SI95#8
 #5 Dimension 2 in 1 [02.03] = 3#24
 #6 Promo RCTI "Liga Italia AC Milan vs. Lazio" [02.33]
@@ -312,7 +311,7 @@ Part 6 (1989, 1996, 1992)
 #16 ILM Sabuk Pengaman [06.53] = 6#4, 17#28, SI95#8
 #17 Bunga Indonesia [07.07]
 #18 Minak Djinggo [07.36]
-#19 McDonalds [07.51] *
+#19 McDonalds [07.51] ISG
 #20 Ikadryl [08.21]
 #21 Trailer Film "Broken Arrow" [08.36]
 #22 CFC [08.51]
@@ -327,7 +326,7 @@ Part 6 (1989, 1996, 1992)
 #31 Promo Indosiar "Pendekar Negeri Taili" [13.18]
 #32 Calippo [13.49] 2X
 #33 Honda Tiger 2000 [14.19]
-#34 Bayfresh [15.04] **
+#34 Bayfresh [15.04] *
 #35 Kaset "Bali Rythm" [15.27]
 #36 Refagan [15.31] = 12#32
 #37 kartuHalo [15.44]
@@ -364,7 +363,7 @@ Part 7 (1991)
 #7 L'Oreal [05.31] = V1 2#10
 #8 Konica Film Super SR [06.01] = 16#10, 20#9
 #9 Hexos [06.31]
-#10 Gayatri [07.01] = 16#15 *
+#10 Gayatri [07.01] = 16#15 ISG
 #11 Promo "Citra Gemilang" RCTI & SCTV [07.29]
 #12 Panasonic [08.29]
 #13 Birkin [09.03] = 16#16
@@ -485,7 +484,7 @@ Part 9 (1990)
 #15 Oil of Ulan [07.20] = 2#23, 20#24
 #16 Vicks Formula 44 [07.51] SC
 #17 Kopiko [08.20] = 9#20, Short A91#19
-#18 Citra Beauty Lotion [09.21] V1 6#3 **
+#18 Citra Beauty Lotion [09.21] V1 6#3 *
 #19 Rejoice 2 in 1 [09.52] = 2#20, 20#21
 #20 Kopiko [10.22] = 9#17, Short A91#19
 #21 Rinso Ultra [11.22] = 9#1, 20#17
@@ -495,7 +494,7 @@ Part 9 (1990)
 #25 Vetco [13.55]
 #26 Jadwal acara SCTV (Kamis, 30 Agustus 1990) [14.28]
 #27 SCTV Ident [15.30] = 9#33
-#28 Royco [15.40] *
+#28 Royco [15.40] ISG
 #29 Neslac [16.24]
 #30 Promo SCTV [16.55]
 #31 Johnson & Johnson [17.12] = Long 2#33, Short A91#18
@@ -641,7 +640,7 @@ Part 11 (2002, 2000)
 #61 Honda MegaPro [18.31]
 #62 Bioginko [19.01]
 #63 Lea "Permanent-Press" [19.16]
-#64 Dji Sam Soe [19.31] **
+#64 Dji Sam Soe [19.31] *
 #65 Promo RCTI "Sanyo Indonesia Open" [20.01]
 #66 Slide RCTI "Hati yang Terpilih" [20.31]
 #67 Primagama [20.36]
@@ -781,7 +780,7 @@ Part 13 (1992)
 #17 Antimo [06.30]
 #18 Osella [06.45] = 13#21
 #19 Neslac [07.01]
-#20 Close-Up [07.31] **
+#20 Close-Up [07.31] *
 #21 Osella [08.00] = 13#18
 #22 Kopiko "Rapat" [08.15]
 #23 Fujifilm [08.30]
@@ -801,7 +800,7 @@ Part 13 (1992)
 #37 Matahari [14.21]
 #38 Softex Ultra Plus [14.35]
 #39 Tempra [15.06] = Long 2#7
-#40 Gaga [15.21] **
+#40 Gaga [15.21] *
 #41 Green Sands [15.36] = 13#14
 #42 Lily Kasoem [16.07] = 13#3
 #43 Vetco [16.22] = 13#9
@@ -962,7 +961,7 @@ Part 16 (1991, 2001)
 #12 Bold Brewmix [05.01]
 #13 Fiat Uno 2 [05.31] = 3#24, 9#14
 #14 Promo HUT RCTI-SCTV (Lenong Rumpi) [06.01]
-#15 Gayatri [07.01] = 7#10 *
+#15 Gayatri [07.01] = 7#10 ISG
 #16 Birkin [07.33] = 7#13
 #17 Permen Mr. Sarmento [08.03] SC
 #18 Toshiba [08.33] = 7#16
@@ -1083,7 +1082,7 @@ Part 18 (1995)
 #28 Belia [12.38]
 #29 Album Seleksi Ole Ole Disco [13.08]
 #30 ABC Special Grade [13.22]
-#31 Vicks Action [13.36] = KS-1#1 **
+#31 Vicks Action [13.36] = KS-1#1 *
 #32 Energo [14.07]
 #33 Clear [14.36]
 #34 TV Sharp Fine Crystal [14.51]
@@ -1128,7 +1127,7 @@ Part 19 (1997)
 #24 Mitsubishi Pajero [07.13]
 #25 Pipa Langgeng [07.43] = 19#4
 #26 Lucky Strike [08.13]
-#27 Obat Nyamuk Tiga Roda [08.43] **
+#27 Obat Nyamuk Tiga Roda [08.43] *
 #28 Yamaha Crypton [08.58]
 #29 Viliron [09.13] = 19#41
 #30 Kansas [09.28] = 19#42, Akm-1#2
@@ -1316,7 +1315,7 @@ Iklan Jadul Tahun 1992-1994 (Contrex Benyamin) + TPI Ident First (TPI-1)
 #33 Laurier [12.06] 
 #34 Milton Pastilles [12.20]
 #35 Softly 3 in 1 [12.35] = TPI-1#18, TPI-1#27, Short 10#31
-#36 Inza [13.04] = 4#14 *
+#36 Inza [13.04] = 4#14 ISG
 #37 Feminax [13.34] = 10#23
 
 +-+-+-+-+-+
@@ -1438,7 +1437,7 @@ Iklan Jadul Tahun 1992 (A92)
 #25 Dunia Dalam Berita di SCTV [09.40]
 #26 Promo SCTV "Sekilas Close-Up" [09.57]
 #27 Swatch [10.27]
-#28 Essenza [10.42] = RCTI-1#53 **
+#28 Essenza [10.42] = RCTI-1#53 *
 #29 Sarung Atlas [11.11] = A92#38
 #30 Obat Nyamuk Jumbo cap Kingkong [11.27]
 #31 Promo SCTV "Fifteen" [11.42]
@@ -1522,7 +1521,7 @@ iklan jadul lagi RCTI 1997 (RCTI-1)
 #50 Fungiderm [19.52]
 #51 UPS [20.08]
 #52 Bank Umum Servitia [20.38]
-#53 Essenza [20.53] = A92#28 **
+#53 Essenza [20.53] = A92#28 *
 #54 Toyota Kijang [21.23]
 #55 Kijang Expo 97 [21.53]
 #56 TV RCA [22.08]
@@ -1535,14 +1534,14 @@ iklan jadul lagi RCTI 1997 (RCTI-1)
 4. Lensa Olahraga ANTV 1997 (LO97)
 5. Iklan jadul tahun 1993 + Acara TPI Jadul (Original TPI) (TPI-2)
 
-	Mins	Upload Time	Viewers (14/7/2019)
-SC93	16:46	29/3/2016	16724
-BM93	25:34	20/1/2017	34304
-SI95	11:32	22/2/2017	39908
-LO97	18:21	14/3/2018	56490
-TPI-2	15:54	24/12/2018	76168
-------------------------------------------------
-Total	1:28:07			223594
+	Mins	Upload Time
+SC93	16:46	29/3/2016
+BM93	25:34	20/1/2017
+SI95	11:32	22/2/2017
+LO97	18:21	14/3/2018
+TPI-2	15:54	24/12/2018
+--------------------------------
+Total	1:28:07			
 
 +-+-+-+-+-+
 Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
@@ -1673,13 +1672,13 @@ Iklan jadul tahun 1993 + Acara TPI Jadul (Original TPI) (TPI-2)
 
 ==EXTRAS==
 
-Name	Ads	Mins	Upload Time	Viewers (14/7/2019)
-KS-1	65	24:15	28/3/2019	104303
-Akm-1	47	14:56	28/3/2019	15439
-KS-2	29	12:16	8/4/2019	16193
-------------------------------------------------
-Total	141	51:27			135935
-------------------------------------------------
+Name	Ads	Mins	Upload Time
+KS-1	65	24:15	28/3/2019
+Akm-1	47	14:56	28/3/2019
+KS-2	29	12:16	8/4/2019
+----------------------------------------
+Total	141	51:27
+----------------------------------------
 
 Iklan Terbanyak = 65 (KS-1)
 Iklan Tersedikit = 29 (KS-2)
@@ -1765,7 +1764,7 @@ Uploader: Akame Hiragi
 47 ads - 14:56
 
 #0 Akame Hiragi Intro [00.00]
-#1 Permen KIS [00.06]
+#1 Permen KIS [00.06] = Akm-1#14
 #2 Kansas [00.11] = 19#30, 19#42
 #3 Wrigley's Doublemint [00.26]
 #4 Hitachi [00.41]
@@ -1778,7 +1777,7 @@ Uploader: Akame Hiragi
 #11 Ricola [03.30]
 #12 Betadine [03.44]
 #13 Promo Seputar Indonesia [04.00]
-#14 Permen KIS [04.15]
+#14 Permen KIS [04.15] = Akm-1#1
 #15 Slide Layar Emas RCTI "King of Adventure" [04.20] = Akm-1#35
 #16 Kratingdaeng [04.24]
 #17 Panadol [04.48]
@@ -1788,7 +1787,7 @@ Uploader: Akame Hiragi
 #21 Bank Papan (kartu kredit) [06.03] = 19#7, versi Jaminan Kartu Kredit 19#51 **
 #22 Kopi Kapal Api [06.18]
 #23 Dji Sam Soe Filter Forum [06.48]
-#24 Pindy Mint [07.19] **
+#24 Pindy Mint [07.19] *
 #25 Marie Roma [07.43]
 #26 Daihatsu Feroza G-2 [07.58]
 #27 Slide Website RCTI [08.13]
