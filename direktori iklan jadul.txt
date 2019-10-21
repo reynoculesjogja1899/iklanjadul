@@ -58,9 +58,9 @@ LEGEND
 ISG = Ada di kanal "insightgav"
 SBC = Ada di kanal "Square Box Cinetech"
 Partial = Iklan terpotong/tidak sempurna/patah-patah
-Short = Versi pendek (5-20 detik)
+Short = Versi pendek (5-30 detik)
 Medium = Versi sedang (30 detik)
-Long = Versi panjang (45 detik-1 menit)
+Long/Full = Versi panjang (45 detik atau lebih)
 V1, V2, V3... = Terdiri dari banyak versi
 SC = Diunggah terpisah oleh SC
 ... = Iklan tidak diketahui
@@ -249,7 +249,7 @@ Part 5 (1997)
 #19 Pepsodent [05.44]
 #20 Tancho Treatment Hair Dye [06.14]
 #21 Wafer Tango (pendek) [06.44] = 5#11
-#22 Pepsodent Junior [06.49]
+#22 Pepsodent Jr. [06.49]
 #23 Wafer Tango (panjang) [07.04] = 5#18
 #24 Clairol [07.19]
 #25 Setrika Philips [07.49]
@@ -270,7 +270,7 @@ Part 5 (1997)
 #40 Maggi [13.18]
 #41 Obat Batuk Nellco Special [13.32]
 #42 Kecap ABC [13.47]
-#43 Pepsodent JR [14.33]
+#43 Pepsodent Jr. [14.33]
 #44 Telkomsel [14.48]
 #45 Nivea Baby [15.02] = 5#53
 #46 Minyak Goreng 999 [15.33]
@@ -392,7 +392,7 @@ Part 8 (1999)
 #3 Kuis Interaktif Jurassic Park [00.30]
 #4 Balpirik [01.00]
 #5 Promo RCTI "Friends" [01.15]
-#6 Mextril [01.45] = 11#24
+#6 Mextril [01.45] = 11#24, Full KHP#32
 #7 Promo RCTI "Selera Nusantara" [02.00]
 #8 Sakatonik [02.30]
 #9 Balpirik [02.44] = 8#4
@@ -600,8 +600,8 @@ Part 11 (2002, 2000)
 #21 Sabun Ghaya [05.27]
 #22 Prolene [05.57]
 #23 So Klin Higinis [06.12] = 11#31, 11#40
-#24 Mextril [06.42] = 8#6
-#25 Sariwangi [06.57]
+#24 Mextril [06.42] = 8#6, Full KHP#32
+#25 Sariwangi [06.57] = Long KHP#5, KHP#20
 #26 Metro Big Sale [07.12] = 11#15
 #27 So Klin Higinis (pendek) [07.18] = 11#37
 #28 Promo SCTV "Serenada" [07.23]
@@ -614,7 +614,7 @@ Part 11 (2002, 2000)
 #35 Indovision [10.09]
 #36 Sari Puspa [10.39]
 #37 So Klin Higinis (pendek) [10.55] = 11#27
-#38 Visine [11.01] = 11#49
+#38 Visine [11.01] = 11#49, Full KHP#8
 #39 Sarden ABC [11.05] = KS-1#60
 #40 So Klin Higinis [11.21] = 11#23, 11#31
 #41 Susu Bendera [11.51]
@@ -624,8 +624,8 @@ Part 11 (2002, 2000)
 #45 Vixal [13.07]
 #46 Huggies Dry Comfort [13.22]
 #47 Cuddle [13.53]
-#48 Enfagrow [14.08]
-#49 Visine [14.23] = 11#38
+#48 Enfagrow [14.08] = Long KHP#34
+#49 Visine [14.23] = 11#38, Full KHP#8
 #50 Slide SCTV "Dewi Fortuna" [14.29]
 #51 Madurasa [14.32]
 #52 Minyak Kayu Putih Cap Lang [15.02]
@@ -1469,7 +1469,7 @@ iklan jadul lagi RCTI 1997 (RCTI-1)
 
 56 ads - 22:37
 
-#1 Lux [00.00]
+#1 Lux [00.00] = V2 KHP#18
 #2 SLI 001 [00.59]
 #3 Brisk Hair Cream [01.14] = V1 5#3, Long Akm-1#41
 #4 Matahari [01.29]
@@ -1558,7 +1558,7 @@ Acara Salam Canda + Rcti Bandung Ident + Iklan Film (SC93)
 #7 Slide RCTI "Saluran Hiburan dan Informasi" II [03.06]
 #8 Intro Salam Canda [03.11]
    - Kuis Salam Canda "Siapakah penyunting gambar acara Salam Canda dan apa istilah Inggrisnya"
-   - Bintang tamu: PH Sugiri (Lembaga Pendidikan Ariyanti Bandung) & Puteri Indonesia 1993
+   - Bintang tamu: PH Sugiri (Lembaga Pendidikan Ariyanti Bandung) & Indira Soediro (Puteri Indonesia 1993)
 #9 ILM Procold [12.24] = 4#28
 #10 Promo RCTI "Intan Berduri" [12.44] = 4#29
 #11 Tonotan [13.14]
@@ -1676,15 +1676,16 @@ Name	Ads	Mins	Upload Time
 KS-1	65	24:15	28/3/2019
 Akm-1	47	14:56	28/3/2019
 KS-2	29	12:16	8/4/2019
+KHP	37	11:22	10/7/2019
 ----------------------------------------
-Total	141	51:27
+Total	178	1:02:49
 ----------------------------------------
 
 Iklan Terbanyak = 65 (KS-1)
 Iklan Tersedikit = 29 (KS-2)
 
 +-+-+-+-+-+
-KS-1 (Des 1994)
+KS-1 (Desember 1994)
 +-+-+-+-+-+
 
 Uploader: Keanu Soemali
@@ -1733,7 +1734,7 @@ Uploader: Keanu Soemali
 #41 Levi's [15.44]
 #42 Digitec Sumo [16.14] = 10#17, 15#28, 15#38, A92#6, A92#13
 #43 Axe Alaska [16.29]
-#44 Dunkin' Donuts (clipped) [16.44] = KS-2#21
+#44 Dunkin' Donuts (Partial) [16.44] = Full KS-2#21
 #45 Sunsilk Intensive Conditioner [16.51]
 #46 Kodak [17.20]
 #47 Kopiko Coffee Shop [17.36]
@@ -1757,7 +1758,7 @@ Uploader: Keanu Soemali
 #65 Pengumuman RCTI 3 [23.45]
 
 +-+-+-+-+-+
-Akm-1 (Jun 1997)
+Akm-1 (Juni 1997)
 +-+-+-+-+-+
 
 Uploader: Akame Hiragi
@@ -1839,12 +1840,57 @@ Uploader: Keanu Soemali
 #18 Trijaya FM "Programs" [07.08]
 #19 Lomba Cipta Resep Selera Sasa [08.08]
 #20 Bank Artha Graha "Deposito Graha 2000" [08.38] = KS-1#56, Short KS-1#18
-#21 Dunkin' Donuts [09.08] = KS-1#44
+#21 Dunkin' Donuts [09.08] = Partial KS-1#44
 #22 Rudy Hadisuwarno [09.23]
 #23 Fisherman's Friend [09.38] 
 #24 Executive 99 [09.53] = 15#40
 #25 Sasa [10.08]
 #26 Vaseline Intensive Care [10.23]
-#27 Bali tropic Palace Hotel [10.53]
+#27 Bali Tropic Palace Hotel [10.53]
 #28 Trailer film "Clear and Present Danger" [11.22]
 #29 Dunhill Liga Inggris 1994-1995 [11.46]
+
++-+-+-+-+-+
+KHP (Oktober 1998, 1994)
++-+-+-+-+-+
+
+Uploader: Kuraihyun Collector Stuff (Kuraihyun Pana)
+37 ads - 11:22
+
+#1 Teh Celup Sariwangi [00.00] = KHP#9, KHP#17, KHP#25
+#2 Canesten [00.05] = Partial KHP#22
+#3 KFC (CB Wrangler) [00.35]
+#4 Softener So Klin [00.51] = KHP#31
+#5 Sariwangi [01.06] = KHP#20, Short 11#25
+#6 Hongkong Bank/HSBC [01.36]
+#7 Lux [02.05] = KHP#23
+#8 Visine [02.36] = Short 11#38, 11#49
+#9 Teh Celup Sariwangi [03.05] = KHP#1, KHP#17, KHP#25
+#10 Stefit [03.11]
+#11 Promo SCTV "Jacklyn 2: Madonna, Apa Yang Kau Cari" [03.17]
+#12 So Klin Pembersih Lantai [03.46] = Partial KHP#31
+#13 Susu Bendera [04.04]
+#14 Hansaplast (Partial) [04.31]
+#15 Pantene Pro-V Anti Ketombe [04.56]
+#16 Rinso Anti Noda (Partial) [05.20]
+#17 Teh Celup Sariwangi [05.29] = KHP#1, KHP#9, KHP#25
+#18 Lux [05.35] = V1 RCTI-1#1
+#19 Baygon [06.05]
+#20 Sariwangi [06.35] = KHP#5, Short 11#25
+#21 So Klin Pembersih Lantai [07.05] = KHP#12
+#22 Canesten (Partial) [07.11] = KHP#2
+#23 Lux [07.29] = KHP#7
+#24 Promo Sinetron SCTV "Kasih Tiada Batas" [07.44]
+#25 Teh Celup Sariwangi [07.59] = KHP#1, KHP#9, KHP#17
+#26 Slide Sinetron SCTV "Melati" [08.05] = KHP#29
+#27 Promo SCTV "Jali-Jali" [08.07]
+#28 Promo Sinema Utama "Cyber Vengeance" [08.37]
+#29 Slide Sinetron SCTV "Melati" [08.41] = KHP#26
+#30 Bubur Bayi Nestle (Partial) [08.47]
+#31 Softener So Klin (Partial) [08.54] = KHP#4
+#32 Mextril [09.09] = Short 8#6, 11#24
+#33 Citra Beauty Lotion [09.39]
+#34 Enfagrow [10.09] = Short 11#48
+#35 Nivea Visage White [10.39]
+#36 Show Dinosaur Park [11.09]
+#37 Slide SCTV [11.19]
